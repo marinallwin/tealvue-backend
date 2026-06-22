@@ -42,7 +42,7 @@ Example:
 {
   "alertRef": "TV-JPCRI",
   "symbol": "TCS",
-  "timestamp"': "2026-06-22 10:51:00+05:30",
+  "timestamp": "2026-06-22 10:51:00+05:30",
   "reason": "Price deviated -0.00% from moving average"
 }
 ```
@@ -79,7 +79,7 @@ Response:
 {
   "alertRef": "TV-JPCRI",
   "symbol": "TCS",
-  "timestamp"': "2026-06-22 10:51:00+05:30",
+  "timestamp": "2026-06-22 10:51:00+05:30",
   "reason": "Price deviated -0.00% from moving average"
 },
 {
